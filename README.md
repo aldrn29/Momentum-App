@@ -58,4 +58,5 @@ Momentum-App
 </br></br>  
 
 ### Landing Pages
-<img src="" width="20%">   <img src="" width="20%">
+<img src="https://github.com/aldrn29/Momentum-App/blob/main/screenshot/screenshot.PNG?raw=true" width="60%">  
+<img src="https://github.com/aldrn29/Momentum-App/blob/main/screenshot/screenshot2.PNG?raw=true" width="60%">
